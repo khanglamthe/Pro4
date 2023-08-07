@@ -2,7 +2,7 @@
 org: khanglt1
 app: serverless-todo-app
 service: serverless-todo-app
-# frameworkVersion: 3.33.0
+frameworkVersion: 3.33.0
 
 plugins:
   - serverless-webpack
